@@ -13,7 +13,7 @@ _It's enough to make a man go crazy_
 git clone https://github.com/Deniz6262/DENIZ-SMS.git
 cd DENIZ-SMS
 pip3 install -r requirements.txt
-python3 enough.py
+python3 DENIZ-SMS.py
 ```
 
 
