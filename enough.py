@@ -22,7 +22,7 @@ while 1:
   D   D  E      N  NN   I    Z
   DDDD   EEEEE  N   N  III  ZZZZZ
    
-    Sms: {}           {}by {}@tingirifistik\n  
+    Sms: {}           {}by {}@Deniz6262 
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder (Normal)\n\n 2- SMS Gönder (Turbo)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
